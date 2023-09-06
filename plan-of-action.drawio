@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2023-09-06T06:53:40.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3S0vAO2zTLNJQu885c8h" version="21.6.8" type="github">
+  <diagram name="Page-1" id="-3rcceruW1OJKVx8fxfC">
+    <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VjfsmGCHDodBwv7irkoB-1" value="JAVA application with all the feature listed out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VjfsmGCHDodBwv7irkoB-2" value="All design patterns" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VjfsmGCHDodBwv7irkoB-3" value="Python Application with all feature listed out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VjfsmGCHDodBwv7irkoB-5" value="HLD and LLD for all use case listed out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="460" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VjfsmGCHDodBwv7irkoB-6" value="One example and all algorithms affecting that category in&amp;nbsp;competitive programming" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="530" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VjfsmGCHDodBwv7irkoB-7" value="One web application from scratch in pure js || css || html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="600" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VjfsmGCHDodBwv7irkoB-8" value="Resume modification with deep dive project knowledge." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="670" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VjfsmGCHDodBwv7irkoB-9" value="Component library" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="740" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VjfsmGCHDodBwv7irkoB-10" value="Implementation of component which never implemented&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="810" width="280" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
